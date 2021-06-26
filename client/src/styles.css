@@ -1,16 +1,11 @@
 body {
-    background:
-    linear-gradient(
-      rgba(0, 0, 0, 0.3), 
-      rgba(0, 0, 0, 0.3)
-    ),
-    url(https://i.pinimg.com/originals/8f/14/57/8f14578ef69a4c53352955d1e072eda6.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CmZg9a5D4y54QbG3Gf4fvll_oa6iT4HS0w&usqp=CAU);
+  background-repeat: repeat;
+  background-attachment: fixed;
 }
 
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
